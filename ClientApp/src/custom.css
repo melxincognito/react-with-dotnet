@@ -4,11 +4,17 @@ a {
 }
 
 code {
-  color: #E01A76;
+  color: #e01a76;
 }
 
 .btn-primary {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
+}
+
+body {
+  background-color: rgba(255, 243, 218, 0.788);
+  font-family: "Kanit", sans-serif;
+  color: rgb(49, 2, 49);
 }
