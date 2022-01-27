@@ -2,6 +2,17 @@
 
 Creating my first react app with dotnet backend
 
+# How to start the app
+
+# YouTube Walkthrough
+
+https://www.youtube.com/watch?v=MpmORt3Y6Pg
+
+# Steps
+
+1. run dotnet build in the main project folder so you ensure the backend has all the proper packages installed
+2. run dotnet watch run starts the app in your localhost
+
 ## Template documentation below
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
